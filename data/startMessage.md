@@ -1,4 +1,4 @@
-Bot Created Via [NFD] github.com/LloydAsp/nfd
+Bot Created Via [NFD] github.com LloydAsp/nfd
 
 使用方法：
 
